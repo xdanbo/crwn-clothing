@@ -11,3 +11,7 @@ a {
 a:visited {
   color: #000;
 }
+
+* {
+  box-sizing: border-box;
+}
